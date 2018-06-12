@@ -1,0 +1,60 @@
+body {
+    background-image:url("http://iliketowastemytime.com/sites/default/files/blue-skies-green-fields-hd-wallpaper.jpg");
+    background-repeat: no-repeat;        
+    position: relative;        
+    width: 85%;            
+    height: 610px;       
+    margin-left: auto;      
+    margin-right: auto;
+}
+
+#contact-form ul {
+    margin-bottom: 20px;
+  }
+  
+  #contact-form li {
+    margin-bottom: 10px;
+  }
+  
+  label,
+  input[type=text],
+  input[type=email],
+  textarea {
+    /* Box-model */
+    display: block;
+    width: 100%;
+  }
+  
+  input[type=text],
+  input[type=email],
+  textarea {
+    /* Box-model */
+    height: 35px;
+    padding: 0 10px;
+  
+    /* Typography */
+    font-size: 14px;
+  
+    /* Visual */
+    border: 1px solid #ddd;
+  }
+  
+  textarea {
+    height: 200px;
+  }
+  
+  input[type=submit] {
+    /* Box-model */
+    padding: 10px 30px;
+    font-size: 18px;
+  
+    /* Typography */
+    color: #fff;
+  
+    /* Misc */
+    cursor: pointer;
+    background: #4aaaa5;
+  
+    /* Visual */
+    border: 0 none;
+  }

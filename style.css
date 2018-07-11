@@ -58,3 +58,18 @@ body {
     /* Visual */
     border: 0 none;
   }
+
+  .card {
+    background-color: black;
+    color:white;
+  }
+
+  .clink {
+    color:white;
+  }
+
+  .plink {
+    color: white;
+    font-size: 20px;
+    background-color:rgb(66, 65, 65);
+  }

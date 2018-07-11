@@ -73,3 +73,8 @@ body {
     font-size: 20px;
     background-color:rgb(66, 65, 65);
   }
+
+  .nav {
+    background-color:black;
+    color:white;
+  }
